@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.0;
+pragma solidity ^0.8.7;
 
 contract AssertionExample {
     function requireStatement(uint256 x) external pure returns (uint256) {
